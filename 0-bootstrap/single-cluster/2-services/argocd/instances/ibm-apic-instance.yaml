@@ -30,7 +30,7 @@ spec:
               license:
                 accept: true
                 use: production
-                license: L-RJON-C7QFWS
-              version: 10.0.4.0-ifix1-54
-              profile: n3xc14.m48
-              storageClassName: ibmc-block-gold
+                license: L-DZZQ-MGVN8V
+              version: 10.0.8.0
+              profile: n1xc12.m64
+              storageClassName: ocs-storagecluster-ceph-rbd
